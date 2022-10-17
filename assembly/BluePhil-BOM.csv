@@ -38,3 +38,4 @@ U400 ,1,SPL06-007,Package_LGA:Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,
 U401 ,1,MPU-6050,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,C24112
 U500 ,1,TJA1051T-3,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C38695
 Y200 ,1,16MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm, C13738
+,1,BM04B-SURS,,C495551
