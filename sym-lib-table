@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "BluePhil-rescue")(type "Legacy")(uri "${KIPRJMOD}/BluePhil-rescue.lib")(options "")(descr ""))
+  (lib (name "BluePill-rescue")(type "Legacy")(uri "${KIPRJMOD}/BluePill-rescue.lib")(options "")(descr ""))
 )

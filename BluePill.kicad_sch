@@ -158,6 +158,12 @@
     (path "/00000000-0000-0000-0000-00006043964d/c63897d3-89b6-43ec-8787-5a3da27143ea"
       (reference "#PWR031") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-0000604396a6/2a02076d-4e9d-49bf-adab-1fde3b624d13"
+      (reference "#PWR032") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/eccd0f68-c92b-4027-85a9-09c691455473"
+      (reference "#PWR033") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006054049e"
       (reference "#PWR051") (unit 1) (value "+5V") (footprint "")
     )
@@ -334,6 +340,9 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a705"
       (reference "H503") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/e9c6362e-7dd2-4f2c-b4be-d695eae59fb1"
+      (reference "J1") (unit 1) (value "BM04B-SURS-TFLFSN") (footprint "CONN_BM04B-SURS-TF_JST")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"
       (reference "J200") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
