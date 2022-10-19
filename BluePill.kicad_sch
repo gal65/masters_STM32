@@ -341,7 +341,7 @@
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a705"
       (reference "H503") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/e9c6362e-7dd2-4f2c-b4be-d695eae59fb1"
+    (path "/00000000-0000-0000-0000-0000604396a6/9b870249-5123-4c16-957b-76b269aae901"
       (reference "J1") (unit 1) (value "BM04B-SURS-TFLFSN") (footprint "CONN_BM04B-SURS-TF_JST")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"

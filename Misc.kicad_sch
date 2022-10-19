@@ -1437,7 +1437,7 @@
 
   (symbol (lib_id "BM04B:BM04B-SURS-TFLFSN") (at 137.16 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid e9c6362e-7dd2-4f2c-b4be-d695eae59fb1)
+    (uuid 9b870249-5123-4c16-957b-76b269aae901)
     (property "Reference" "J1" (id 0) (at 151.13 53.34 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
@@ -1450,10 +1450,10 @@
     (property "Datasheet" "" (id 3) (at 137.16 50.8 0)
       (effects (font (size 1.524 1.524)))
     )
-    (pin "1" (uuid 17a61a3b-4cb5-4a92-a459-0985d54d66eb))
-    (pin "2" (uuid 5cc90279-291a-42d8-842c-65b2db36f89f))
-    (pin "3" (uuid 69c08046-406f-4423-b336-02f9de0af779))
-    (pin "4" (uuid 435e86b4-90e7-4430-b440-df762c656d0b))
+    (pin "1" (uuid 57970569-ed4f-4194-a394-ece4d6023456))
+    (pin "2" (uuid d684c8cd-1081-427b-a5cf-b5fcbfbe6394))
+    (pin "3" (uuid 6d95ade5-60e6-4995-8e63-6a897f47ff37))
+    (pin "4" (uuid e333b144-bab8-40a3-a3ae-db231a69be64))
   )
 
   (symbol (lib_id "power:GND") (at 137.16 58.42 0) (unit 1)
