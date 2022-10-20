@@ -164,9 +164,6 @@
     (path "/00000000-0000-0000-0000-0000604396a6/eccd0f68-c92b-4027-85a9-09c691455473"
       (reference "#PWR033") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006054049e"
-      (reference "#PWR051") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-000060534ef1"
       (reference "#PWR052") (unit 1) (value "GND") (footprint "")
     )
@@ -226,6 +223,12 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-000060581e47"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/9c45660e-e326-439b-ba3e-6780af63a34e"
+      (reference "#PWR0104") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/9f6dacf1-2b3e-4b45-9145-8db74f6ff22a"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006043964d/21cd1c14-a0f4-4f5e-be83-eb9a5a9059da"
       (reference "C1") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -342,7 +345,7 @@
       (reference "H503") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/9b870249-5123-4c16-957b-76b269aae901"
-      (reference "J1") (unit 1) (value "BM04B-SURS-TFLFSN") (footprint "CONN_BM04B-SURS-TF_JST")
+      (reference "J1") (unit 1) (value "BM04B-SURS-TFLFSN") (footprint "BM04B:BM04B-SURS-TFLFSN")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"
       (reference "J200") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
@@ -358,6 +361,12 @@
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006076b0e5"
       (reference "Q100") (unit 1) (value "AO3401A") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/f8aea498-6ac8-415d-b91a-394ef9b00435"
+      (reference "R1") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/329e2d84-3afd-4d54-9aaa-4b598ca40907"
+      (reference "R2") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006076d104"
       (reference "R100") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
