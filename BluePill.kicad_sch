@@ -228,7 +228,7 @@
       (reference "#PWR0104") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/9f6dacf1-2b3e-4b45-9145-8db74f6ff22a"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0105") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006043964d/21cd1c14-a0f4-4f5e-be83-eb9a5a9059da"
       (reference "C1") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -346,6 +346,18 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/9b870249-5123-4c16-957b-76b269aae901"
       (reference "J1") (unit 1) (value "BM04B-SURS-TFLFSN") (footprint "BM04B:BM04B-SURS-TFLFSN")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/37ed54d3-6995-44f1-be6f-f207ea8db987"
+      (reference "J2") (unit 1) (value "Conn_02x08_Top_Bottom") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/a5446bbd-b52c-4f27-b0a8-fa1c41b1e21e"
+      (reference "J3") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/1dbacf7c-086f-4d2a-9255-e1a1ddc41c8d"
+      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/6ff63fa2-38c0-4edd-9989-29c8bf5e9e69"
+      (reference "J5") (unit 1) (value "Conn_01x05") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"
       (reference "J200") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
