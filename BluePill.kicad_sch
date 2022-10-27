@@ -197,23 +197,11 @@
     (path "/00000000-0000-0000-0000-0000604396a6/eccd0f68-c92b-4027-85a9-09c691455473"
       (reference "#PWR044") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/91688dab-3b74-4a43-8c09-0320c64330f2"
-      (reference "#PWR045") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/f59eac53-26df-4cfa-b074-ca8e48ad2813"
-      (reference "#PWR046") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/396db577-5095-4ba5-943f-622f7abf39ec"
       (reference "#PWR047") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/a426fdfb-da19-4a68-9b93-18584b07631a"
       (reference "#PWR048") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/a4f301b8-b174-4c17-84dd-f6dbf1d5ae8a"
-      (reference "#PWR049") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/37242928-7600-4db6-89e0-5a213539f411"
-      (reference "#PWR050") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-000060534ef1"
       (reference "#PWR051") (unit 1) (value "GND") (footprint "")
@@ -247,6 +235,18 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606cf2f7"
       (reference "#PWR061") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/0fb7b226-eb66-4ac0-9deb-18f6a82c972a"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/e26188e3-f71d-4bd2-9a6d-b0d992b64b1f"
+      (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/2f8a1ea2-a91a-4bb4-84d9-a95ae843d575"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/886fb4c9-856e-4a66-b843-dc193ff2b0d9"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006077b494"
       (reference "C1") (unit 1) (value "2u2") (footprint "Capacitor_SMD:C_0603_1608Metric")
