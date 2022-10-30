@@ -167,9 +167,6 @@
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605b2273"
       (reference "#PWR034") (unit 1) (value "VBUS") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605a26b6"
-      (reference "#PWR035") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006043964d/f9142f59-d312-453b-aae8-7e861eb923a7"
       (reference "#PWR036") (unit 1) (value "GND") (footprint "")
     )
@@ -190,12 +187,6 @@
     )
     (path "/00000000-0000-0000-0000-00006043964d/c63897d3-89b6-43ec-8787-5a3da27143ea"
       (reference "#PWR042") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/2a02076d-4e9d-49bf-adab-1fde3b624d13"
-      (reference "#PWR043") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/eccd0f68-c92b-4027-85a9-09c691455473"
-      (reference "#PWR044") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/396db577-5095-4ba5-943f-622f7abf39ec"
       (reference "#PWR047") (unit 1) (value "+3.3V") (footprint "")
@@ -242,11 +233,26 @@
     (path "/00000000-0000-0000-0000-0000604396a6/e26188e3-f71d-4bd2-9a6d-b0d992b64b1f"
       (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-0000604396a6/8561b451-aa68-467f-a894-32ee916a53a2"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/7f50ee63-dc74-40ac-908a-1157551a476c"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/3034c072-ba97-4e30-83f9-5caf4b974ebd"
+      (reference "#PWR0105") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/1c36c567-2d3c-44e4-8d23-23d4ecde0132"
+      (reference "#PWR0106") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000604396a6/2f8a1ea2-a91a-4bb4-84d9-a95ae843d575"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/886fb4c9-856e-4a66-b843-dc193ff2b0d9"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0108") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/6975ea6c-ef12-4004-8c97-961e80020242"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006077b494"
       (reference "C1") (unit 1) (value "2u2") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -365,9 +371,6 @@
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"
       (reference "J1") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605a1f81"
-      (reference "J2") (unit 1) (value "USB_B_Micro") (footprint "BluePhil-Footprints:MicroXNJ")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/f225690c-e324-41ae-9ce6-b680f511f7db"
       (reference "J3") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
     )
@@ -385,6 +388,15 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606bcaeb"
       (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/663df619-13a2-4e08-9476-bcc71cc11295"
+      (reference "J9") (unit 1) (value "2169900003") (footprint "MOLEX_2169900003")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/1e464908-9c4b-42f0-b9d8-79cbb0c57723"
+      (reference "JP1") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/2e3f7597-fe67-418e-804c-680e6dddc17a"
+      (reference "JP2") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006077fcfd"
       (reference "L1") (unit 1) (value "15u") (footprint "BluePhil-Footprints:MPIT4018-150M-LF")
@@ -439,6 +451,12 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000605373db"
       (reference "R16") (unit 1) (value "120R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/8846c14d-509b-4865-8960-3ed85a972b5e"
+      (reference "R17") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/d2985fc3-304d-4aa1-a359-da7f689b1773"
+      (reference "R18") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604a9728"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
