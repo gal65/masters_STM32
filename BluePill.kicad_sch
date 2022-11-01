@@ -224,9 +224,6 @@
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606c6ae5"
       (reference "#PWR060") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606cf2f7"
-      (reference "#PWR061") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/0fb7b226-eb66-4ac0-9deb-18f6a82c972a"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -253,6 +250,9 @@
     )
     (path "/00000000-0000-0000-0000-000060437230/6975ea6c-ef12-4004-8c97-961e80020242"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/2f627c6e-776f-4eb1-9acf-73ac63169bcb"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/00000000-0000-0000-0000-00006077b494"
       (reference "C1") (unit 1) (value "2u2") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -368,8 +368,17 @@
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a705"
       (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
+    (path "/00000000-0000-0000-0000-00006076aa9d/4b4a449d-4b98-4cc7-9003-965bafd72dfe"
+      (reference "IC1") (unit 1) (value "ADP2301AUJZ-R7") (footprint "SOT95P280X100-6N")
+    )
+    (path "/00000000-0000-0000-0000-00006076aa9d/1462f8fe-39f9-4632-9feb-b8152a0796c0"
+      (reference "IC2") (unit 1) (value "ADP2301AUJZ-R7") (footprint "SOT95P280X100-6N")
+    )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605f8a8c"
       (reference "J1") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/6531af22-acb1-49ef-8331-ec2bfca64437"
+      (reference "J2") (unit 1) (value "TE 338069-4") (footprint "SnapEDA Library:TE_338069-4")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/f225690c-e324-41ae-9ce6-b680f511f7db"
       (reference "J3") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
@@ -385,9 +394,6 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/6ff63fa2-38c0-4edd-9989-29c8bf5e9e69"
       (reference "J7") (unit 1) (value "Conn_01x05") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606bcaeb"
-      (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000060437230/663df619-13a2-4e08-9476-bcc71cc11295"
       (reference "J9") (unit 1) (value "2169900003") (footprint "MOLEX_2169900003")
@@ -475,6 +481,12 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/59189cf3-07bd-45ab-a8e6-3f37e6cad03d"
       (reference "U5") (unit 1) (value "SN65HVD232QDRQ1") (footprint "SnapEDA Library:SOIC127P599X175-8N")
+    )
+    (path "/00000000-0000-0000-0000-00006076aa9d/12d5deb3-b5aa-47a2-bc4c-6944464645bc"
+      (reference "U6") (unit 1) (value "XT30PW-F") (footprint "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-00006076aa9d/5b6cad56-2239-4359-bb6e-9eb85e49cf4d"
+      (reference "U7") (unit 1) (value "XT30PW-M") (footprint "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604acf00"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
