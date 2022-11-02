@@ -1,4 +1,4 @@
-20273858014754322
+20280527564541770
 BM04B
 BM04B-SURS-TFLFSN
 
@@ -78834,6 +78834,27 @@ LEM Hall Effect Voltage transducer
 5
 5
 SnapEDA Library
+B230A-13-F
+
+
+0
+2
+2
+SnapEDA Library
+CAPC1005X55N
+
+
+0
+2
+2
+SnapEDA Library
+CDRH5D28RHPNP-4R7NC
+
+
+0
+2
+2
+SnapEDA Library
 IC_ICM-42670-P
 
 
@@ -78861,6 +78882,13 @@ SOIC127P599X175-8N
 0
 8
 8
+SnapEDA Library
+SOT95P280X100-6N
+UJ-6 (TSOT)
+Integrated Circuit
+0
+6
+6
 SnapEDA Library
 TE_338069-4
 
