@@ -1,11 +1,4 @@
-20280527564541770
-BM04B
-BM04B-SURS-TFLFSN
-
-
-0
-6
-6
+20287198525473021
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -78841,6 +78834,13 @@ B230A-13-F
 2
 2
 SnapEDA Library
+C0603C105K3RACTU
+
+
+0
+2
+2
+SnapEDA Library
 CAPC1005X55N
 
 
@@ -78861,6 +78861,20 @@ IC_ICM-42670-P
 0
 14
 14
+SnapEDA Library
+JST_BM02B-SURS-TF(LF)(SN)
+
+
+0
+4
+4
+SnapEDA Library
+JST_BM04B-SURS-TF(LF)(SN)
+
+
+0
+6
+6
 SnapEDA Library
 MOLEX_2169900003
 
@@ -78883,12 +78897,26 @@ SOIC127P599X175-8N
 8
 8
 SnapEDA Library
+SOP50P310X90-8N
+
+
+0
+8
+8
+SnapEDA Library
 SOT95P280X100-6N
 UJ-6 (TSOT)
 Integrated Circuit
 0
 6
 6
+SnapEDA Library
+SOT95P280X145-5N
+
+
+0
+5
+5
 SnapEDA Library
 TE_338069-4
 

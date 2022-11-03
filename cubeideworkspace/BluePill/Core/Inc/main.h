@@ -57,6 +57,26 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define MCU_HSE_IN_Pin GPIO_PIN_0
+#define MCU_HSE_IN_GPIO_Port GPIOH
+#define MCU_HSE_OUT_Pin GPIO_PIN_1
+#define MCU_HSE_OUT_GPIO_Port GPIOH
+#define IMU_INTERRUPT_Pin GPIO_PIN_1
+#define IMU_INTERRUPT_GPIO_Port GPIOB
+#define MCU_BOOT1_Pin GPIO_PIN_2
+#define MCU_BOOT1_GPIO_Port GPIOB
+#define MCU_I2C2_SCL_Pin GPIO_PIN_10
+#define MCU_I2C2_SCL_GPIO_Port GPIOB
+#define MCU_I2C_SDA_Pin GPIO_PIN_11
+#define MCU_I2C_SDA_GPIO_Port GPIOB
+#define MCU_I2C1_SCL_Pin GPIO_PIN_6
+#define MCU_I2C1_SCL_GPIO_Port GPIOB
+#define MCU_I2C1_SDA_Pin GPIO_PIN_7
+#define MCU_I2C1_SDA_GPIO_Port GPIOB
+#define MCU_CAN1_RX_Pin GPIO_PIN_8
+#define MCU_CAN1_RX_GPIO_Port GPIOB
+#define MCU_CAN1_TX_Pin GPIO_PIN_9
+#define MCU_CAN1_TX_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
