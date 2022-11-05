@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "BluePhil-Footprints")(type "KiCad")(uri "${KIPRJMOD}/BluePhil-Footprints.pretty")(options "")(descr ""))
+  (lib (name "BluePill-Footprints")(type "KiCad")(uri "${KIPRJMOD}/BluePill-Footprints.pretty")(options "")(descr ""))
   (lib (name "SnapEDA")(type "KiCad")(uri "C:/Users/gordo/SnapEDA Kicad Plugin/KiCad Library/SnapEDA Library.pretty")(options "")(descr ""))
 )

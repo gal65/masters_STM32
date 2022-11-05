@@ -61,6 +61,10 @@ void Error_Handler(void);
 #define MCU_HSE_IN_GPIO_Port GPIOH
 #define MCU_HSE_OUT_Pin GPIO_PIN_1
 #define MCU_HSE_OUT_GPIO_Port GPIOH
+#define SERVO_TX_Pin GPIO_PIN_0
+#define SERVO_TX_GPIO_Port GPIOA
+#define SERVO_RX_Pin GPIO_PIN_1
+#define SERVO_RX_GPIO_Port GPIOA
 #define IMU_INTERRUPT_Pin GPIO_PIN_1
 #define IMU_INTERRUPT_GPIO_Port GPIOB
 #define MCU_BOOT1_Pin GPIO_PIN_2
@@ -69,6 +73,8 @@ void Error_Handler(void);
 #define MCU_I2C2_SCL_GPIO_Port GPIOB
 #define MCU_I2C_SDA_Pin GPIO_PIN_11
 #define MCU_I2C_SDA_GPIO_Port GPIOB
+#define MCU_LED_A_Pin GPIO_PIN_14
+#define MCU_LED_A_GPIO_Port GPIOB
 #define MCU_I2C1_SCL_Pin GPIO_PIN_6
 #define MCU_I2C1_SCL_GPIO_Port GPIOB
 #define MCU_I2C1_SDA_Pin GPIO_PIN_7
