@@ -491,6 +491,12 @@
     (path "/00000000-0000-0000-0000-0000604396a6/3a83e915-66b8-4738-bba3-42fd10f2e151"
       (reference "J504") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
+    (path "/00000000-0000-0000-0000-0000604396a6/f6167ea2-2f76-457e-a5b6-fa557a36b6e3"
+      (reference "J505") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/81b1b01e-b439-4f71-80b7-3bc8dd030686"
+      (reference "J506") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
+    )
     (path "/00000000-0000-0000-0000-00006043964d/b9c78184-d074-463a-8854-e64e527b4045"
       (reference "JP401") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
     )
