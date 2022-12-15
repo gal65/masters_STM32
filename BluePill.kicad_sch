@@ -122,6 +122,18 @@
     (path "/00000000-0000-0000-0000-000060437230/9783b12f-da2e-4dce-9f09-85a221fb72e1"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-0000604396a6/a1de3c2b-f087-4bbb-82b5-98c8270f44ec"
+      (reference "#PWR0120") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/0919cc33-fa52-4f6b-897d-d8fb15a8bacd"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/e8387074-8ff1-4ff6-b6f1-0aa9a2096a9d"
+      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/03d8e82b-e2ac-44af-ba37-60eb39d957fe"
+      (reference "#PWR0123") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006076aa9d/495edb30-583c-4bcb-ac9a-c4e9ddb8e546"
       (reference "#PWR0201") (unit 1) (value "VS") (footprint "")
     )
@@ -325,6 +337,12 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/20a8dab3-8a0e-437f-a6a8-5cf2a66fa614"
       (reference "#PWR0521") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/e3b59157-4611-4d4a-81d9-4d96983b3344"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/eadfc2d3-5a75-43d4-af5c-36847dd28625"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/9f148fe7-fc45-462e-87b6-c679174d4b61"
       (reference "C201") (unit 1) (value "1u ceramic X7R") (footprint "SnapEDA Library:C0603C105K3RACTU")
