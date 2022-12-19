@@ -1149,3 +1149,26 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 \\file\Usersg$\gal65\H
 !MESSAGE OK
 !SUBENTRY 1 org.eclipse.core.resources 4 77 2022-12-16 18:19:56.811
 !MESSAGE \\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\cubeideworkspace\BluePill overlaps the location of another project: 'BluePill'
+!SESSION 2022-12-19 19:28:34.482 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_NZ
+Framework arguments:  \\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\cubeideworkspace\BluePill\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 \\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\cubeideworkspace\BluePill\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-19 19:29:36.282
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-19 19:29:36.482
+!MESSAGE Log4j initialized with config file \\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\cubeideworkspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-19 19:29:41.192
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2022-12-19 19:29:41.872
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-12-19 19:29:41.872
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-12-19 19:29:41.872
+!MESSAGE \\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\cubeideworkspace\BluePill overlaps the location of another project: 'BluePill'
