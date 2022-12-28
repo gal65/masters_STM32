@@ -122,12 +122,6 @@
     (path "/00000000-0000-0000-0000-000060437230/9783b12f-da2e-4dce-9f09-85a221fb72e1"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/e8387074-8ff1-4ff6-b6f1-0aa9a2096a9d"
-      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/03d8e82b-e2ac-44af-ba37-60eb39d957fe"
-      (reference "#PWR0123") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/f6ab244c-4ca7-467c-962c-f99c3ca809e2"
       (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
     )
@@ -311,9 +305,6 @@
     (path "/00000000-0000-0000-0000-0000604396a6/22c33c6b-bd9b-464a-925b-09fa282e0994"
       (reference "#PWR0511") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057ab83"
-      (reference "#PWR0512") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/9f6dacf1-2b3e-4b45-9145-8db74f6ff22a"
       (reference "#PWR0513") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -340,15 +331,6 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/20a8dab3-8a0e-437f-a6a8-5cf2a66fa614"
       (reference "#PWR0521") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/2cf9b917-0c9c-4cde-8ad5-ba6e7f5282d8"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/9790fe15-725d-4cd5-836b-e5fdd849cb21"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/b5312918-994d-4818-b90d-98c7d19c77d4"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/9f148fe7-fc45-462e-87b6-c679174d4b61"
       (reference "C201") (unit 1) (value "1u ceramic X7R") (footprint "SnapEDA Library:C0603C105K3RACTU")
@@ -473,14 +455,8 @@
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a1c5"
       (reference "H501") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000605798ab"
-      (reference "H502") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a51c"
-      (reference "H503") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-00006057a705"
-      (reference "H504") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
+      (reference "H502") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/4b4a449d-4b98-4cc7-9003-965bafd72dfe"
       (reference "IC201") (unit 1) (value "ADP2301AUJZ-R7") (footprint "SOT95P280X100-6N")
@@ -509,9 +485,6 @@
     (path "/00000000-0000-0000-0000-0000604396a6/38e31d6a-3b11-4567-b1f5-6d54bb2d8393"
       (reference "J502") (unit 1) (value "TE 338069-4") (footprint "SnapEDA Library:TE_338069-4")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/51e14adc-6f99-410e-856d-f5af8ffe448c"
-      (reference "J503") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/3a83e915-66b8-4738-bba3-42fd10f2e151"
       (reference "J504") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
@@ -521,14 +494,14 @@
     (path "/00000000-0000-0000-0000-0000604396a6/81b1b01e-b439-4f71-80b7-3bc8dd030686"
       (reference "J506") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/66b3fa28-ed97-402b-bffb-007902369439"
-      (reference "J507") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/b56eb890-32c4-46f8-8807-cd954a02ba1e"
       (reference "J509") (unit 1) (value "Conn_01x05") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/886283b0-bf3b-4c04-8c88-0c4ae4f25552"
       (reference "J510") (unit 1) (value "Conn_01x05") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-0000604396a6/21adbb6e-e0dd-417a-b4fe-e19d979a5aef"
+      (reference "J?") (unit 1) (value "Conn_01x13") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006043964d/b9c78184-d074-463a-8854-e64e527b4045"
       (reference "JP401") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
