@@ -482,8 +482,8 @@
     (path "/00000000-0000-0000-0000-0000604396a6/c4f290c8-69f0-4c39-bdc2-4a2d895e58a0"
       (reference "J501") (unit 1) (value "Conn_01x04") (footprint "SnapEDA Library:JST_B4B-XH-A(LF)(SN)")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/38e31d6a-3b11-4567-b1f5-6d54bb2d8393"
-      (reference "J502") (unit 1) (value "TE 338069-4") (footprint "SnapEDA Library:TE_338069-4")
+    (path "/00000000-0000-0000-0000-0000604396a6/974af313-c9d4-4540-9b03-4dd02c846556"
+      (reference "J502") (unit 1) (value "Conn_01x02") (footprint "SnapEDA Library:JST_B2B-XH-A(LF)(SN)")
     )
     (path "/00000000-0000-0000-0000-0000604396a6/2c1bcf17-92bc-4f3b-930d-22ccd6ba8f2f"
       (reference "J503") (unit 1) (value "Conn_01x10") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
