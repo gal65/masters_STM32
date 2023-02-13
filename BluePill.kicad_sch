@@ -158,6 +158,9 @@
     (path "/00000000-0000-0000-0000-000060437230/640c215b-c577-4f19-a7ff-24374cff5047"
       (reference "#PWR0324") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000060437230/124f8248-1ae2-4e34-b3a3-5950f62cd489"
+      (reference "#PWR0325") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000606503e2"
       (reference "#PWR0326") (unit 1) (value "GND") (footprint "")
     )
@@ -169,6 +172,9 @@
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605b8370"
       (reference "#PWR0329") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/a452beca-1661-42aa-bc0d-051fdfc6625e"
+      (reference "#PWR0330") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000605bfe21"
       (reference "#PWR0331") (unit 1) (value "GND") (footprint "")
@@ -308,6 +314,12 @@
     (path "/00000000-0000-0000-0000-000060437230/5b164b35-8466-4b4f-a6b5-7915e0f45ac7"
       (reference "D306") (unit 1) (value "RCLAMP0521P-N") (footprint "Diode_SMD:D_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-000060437230/bc265202-eebb-4434-893b-4a9a0267863a"
+      (reference "D307") (unit 1) (value "YELLOW") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/0cc2e620-2f3d-4cde-87f4-df19c4a7fc63"
+      (reference "D308") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000606b355a"
       (reference "D502") (unit 1) (value "RCLAMP0521P-N") (footprint "Diode_SMD:D_0402_1005Metric")
     )
@@ -380,6 +392,9 @@
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604ceb72"
       (reference "R312") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-000060437230/7702e373-97c3-43a4-a302-74d6a6f22b69"
+      (reference "R313") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-00006060ff19"
       (reference "R314") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -388,6 +403,9 @@
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-000060651180"
       (reference "R316") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000060437230/67c212f5-7b51-4066-8d8a-628374d086b0"
+      (reference "R317") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00006043964d/03332589-1f58-42e1-a796-d3a785530e0c"
       (reference "R401") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
