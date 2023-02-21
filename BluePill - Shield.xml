@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>\\file\Usersg$\gal65\Home\My Documents\~Masters\masters_STM32_bluepill\BluePill - Shield.kicad_sch</source>
+    <date>16/02/2023 3:13:05 pm</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BluePill - Shield.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power - Shield.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Misc - Shield.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C202">
+      <value>0.1u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1005X55N</footprint>
+      <libsource lib="C1005X5R1E104K050BC" part="C1005X5R1E104K050BC" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>66f4bedc-4ebb-4354-9204-272c6a6100b8</tstamps>
+    </comp>
+    <comp ref="C204">
+      <value>10u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1608X90N</footprint>
+      <libsource lib="C1608X5R0J106K080AB" part="C1608X5R0J106K080AB" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>b8b65219-4c0c-49b5-a0d6-d8e1cf80ce9e</tstamps>
+    </comp>
+    <comp ref="C207">
+      <value>10u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1608X90N</footprint>
+      <libsource lib="C1608X5R0J106K080AB" part="C1608X5R0J106K080AB" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>b45dfbdd-78d5-4b9a-959e-01ce4bde8670</tstamps>
+    </comp>
+    <comp ref="C209">
+      <value>0.1u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1005X55N</footprint>
+      <libsource lib="C1005X5R1E104K050BC" part="C1005X5R1E104K050BC" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>6643ede9-b0b0-41a9-8988-b6c986ffbe82</tstamps>
+    </comp>
+    <comp ref="C210">
+      <value>10u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1608X90N</footprint>
+      <libsource lib="C1608X5R0J106K080AB" part="C1608X5R0J106K080AB" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>bfd2ffec-97fe-4dcd-94a1-9ea2553ed7a1</tstamps>
+    </comp>
+    <comp ref="C211">
+      <value>10u ceramic X5R</value>
+      <footprint>SnapEDA Library:CAPC1608X90N</footprint>
+      <libsource lib="C1608X5R0J106K080AB" part="C1608X5R0J106K080AB" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>4dc84031-3a65-4761-8be3-666b04ca1cc4</tstamps>
+    </comp>
+    <comp ref="D202">
+      <value>30V 2A</value>
+      <footprint>SnapEDA Library:B230A-13-F</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>270ed9af-a19c-4e24-98ce-3c252f09d3ac</tstamps>
+    </comp>
+    <comp ref="D206">
+      <value>30V 2A</value>
+      <footprint>SnapEDA Library:B230A-13-F</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>25b976cf-c206-4cdf-88d8-c9522b86d47c</tstamps>
+    </comp>
+    <comp ref="F201">
+      <value>0ZCG0050FF2C</value>
+      <footprint>SnapEDA Library:0ZCG0050FF2C</footprint>
+      <libsource lib="0ZCG0050FF2C" part="0ZCG0050FF2C" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>7f66ecb3-94ed-42fb-9653-6ca4994681ba</tstamps>
+    </comp>
+    <comp ref="F202">
+      <value>0ZCG0050FF2C</value>
+      <footprint>SnapEDA Library:0ZCG0050FF2C</footprint>
+      <libsource lib="0ZCG0050FF2C" part="0ZCG0050FF2C" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>ed6f5616-d925-4753-87dd-404a7ceab6fe</tstamps>
+    </comp>
+    <comp ref="IC201">
+      <value>ADP2301AUJZ-R7</value>
+      <footprint>SOT95P280X100-6N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10005240.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADP2301AUJZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp2301aujz-r7/analog-devices?region=nac</field>
+        <field name="Description">Analog Devices ADP2301AUJZ-R7, Step Down DC-DC Converter, Adjustable, 0.8 ??17 V, 6-Pin TSOT%0%0</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP2301AUJZ-R7</field>
+        <field name="Mouser Part Number">584-ADP2301AUJZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2301AUJZ-R7?qs=WIvQP4zGangX%252BSN5bF8NUg%3D%3D</field>
+      </fields>
+      <libsource lib="ADP2301AUJZ-R7" part="ADP2301AUJZ-R7" description=""/>
+      <property name="Description" value="Analog Devices ADP2301AUJZ-R7, Step Down DC-DC Converter, Adjustable, 0.8 ??17 V, 6-Pin TSOT%0%0"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADP2301AUJZ-R7"/>
+      <property name="Mouser Part Number" value="584-ADP2301AUJZ-R7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2301AUJZ-R7?qs=WIvQP4zGangX%252BSN5bF8NUg%3D%3D"/>
+      <property name="Arrow Part Number" value="ADP2301AUJZ-R7"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp2301aujz-r7/analog-devices?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>4b4a449d-4b98-4cc7-9003-965bafd72dfe</tstamps>
+    </comp>
+    <comp ref="IC202">
+      <value>ADP2301AUJZ-R7</value>
+      <footprint>SOT95P280X100-6N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10005240.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADP2301AUJZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp2301aujz-r7/analog-devices?region=nac</field>
+        <field name="Description">Analog Devices ADP2301AUJZ-R7, Step Down DC-DC Converter, Adjustable, 0.8 ??17 V, 6-Pin TSOT%0%0</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP2301AUJZ-R7</field>
+        <field name="Mouser Part Number">584-ADP2301AUJZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2301AUJZ-R7?qs=WIvQP4zGangX%252BSN5bF8NUg%3D%3D</field>
+      </fields>
+      <libsource lib="ADP2301AUJZ-R7" part="ADP2301AUJZ-R7" description=""/>
+      <property name="Description" value="Analog Devices ADP2301AUJZ-R7, Step Down DC-DC Converter, Adjustable, 0.8 ??17 V, 6-Pin TSOT%0%0"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADP2301AUJZ-R7"/>
+      <property name="Mouser Part Number" value="584-ADP2301AUJZ-R7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2301AUJZ-R7?qs=WIvQP4zGangX%252BSN5bF8NUg%3D%3D"/>
+      <property name="Arrow Part Number" value="ADP2301AUJZ-R7"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp2301aujz-r7/analog-devices?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>1462f8fe-39f9-4632-9feb-b8152a0796c0</tstamps>
+    </comp>
+    <comp ref="J201">
+      <value>AMASS_XT30PW-F</value>
+      <footprint>Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>78a33939-50ef-44ae-9b13-c28c8b996fe4</tstamps>
+    </comp>
+    <comp ref="J202">
+      <value>AMASS_XT30PW-M</value>
+      <footprint>Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>badef60f-082e-4ece-aaca-649e127c5114</tstamps>
+    </comp>
+    <comp ref="L201">
+      <value>4.7u 2.0A</value>
+      <footprint>SnapEDA Library:CDRH5D28RHPNP-4R7NC</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>7704b6cb-d647-4209-a367-d45a4a9f5018</tstamps>
+    </comp>
+    <comp ref="L203">
+      <value>4.7u 2.0A</value>
+      <footprint>SnapEDA Library:CDRH5D28RHPNP-4R7NC</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>8b70d8aa-7d0d-4ce3-b5a0-e63d77fffd59</tstamps>
+    </comp>
+    <comp ref="R201">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>82e46caa-b022-41a4-bb7a-50860532dc6b</tstamps>
+    </comp>
+    <comp ref="R202">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>7356bbf1-72a9-405f-aca9-ed6fc98e8e9c</tstamps>
+    </comp>
+    <comp ref="R205">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>47acaf00-1847-4b62-bf70-2503354cae1d</tstamps>
+    </comp>
+    <comp ref="R206">
+      <value>10.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>fc7748da-4683-45bc-b865-1c4c8301685f</tstamps>
+    </comp>
+    <comp ref="R210">
+      <value>52.3k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>a205ff21-dca7-4ad6-9f81-13257c45fa53</tstamps>
+    </comp>
+    <comp ref="R211">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>9fac7415-cec9-4ea4-b64a-c9bb7933e616</tstamps>
+    </comp>
+    <comp ref="R212">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>f791fab9-aabf-4f31-9272-689c7906fbfc</tstamps>
+    </comp>
+    <comp ref="R213">
+      <value>10.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power - Shield.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/00000000-0000-0000-0000-00006076aa9d/"/>
+      <tstamps>4a539b98-1089-4d0e-b9c1-80efbe5f2bab</tstamps>
+    </comp>
+    <comp ref="C502">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part #" value="C1525"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>6cc73695-d1c9-4d93-b4b6-778f4267a30f</tstamps>
+    </comp>
+    <comp ref="C503">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part #" value="C1525"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>3c53f8b5-05f9-45a0-a735-438497db04bc</tstamps>
+    </comp>
+    <comp ref="D501">
+      <value>GREEN</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC Part #" value="C72043"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>bc3791b3-d7f5-42c0-b860-6656d339ef58</tstamps>
+    </comp>
+    <comp ref="J501">
+      <value>Conn_01x04</value>
+      <footprint>SnapEDA Library:JST_B4B-XH-A(LF)(SN)</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>c4f290c8-69f0-4c39-bdc2-4a2d895e58a0</tstamps>
+    </comp>
+    <comp ref="J502">
+      <value>Conn_01x02</value>
+      <footprint>SnapEDA Library:JST_B2B-XH-A(LF)(SN)</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>974af313-c9d4-4540-9b03-4dd02c846556</tstamps>
+    </comp>
+    <comp ref="J504">
+      <value>Conn_01x10</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>3a83e915-66b8-4738-bba3-42fd10f2e151</tstamps>
+    </comp>
+    <comp ref="J506">
+      <value>Conn_01x13</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x13" description="Generic connector, single row, 01x13, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>a47d2d52-65ee-4f4b-91e8-bd13cd6e7fd2</tstamps>
+    </comp>
+    <comp ref="R501">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part #" value="C11702"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>3500f1ad-48df-46b8-ac90-9b6d3284afc6</tstamps>
+    </comp>
+    <comp ref="U502">
+      <value>TXS0102DCU</value>
+      <footprint>Package_SO:VSSOP-8_2.3x2mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/txs0102</datasheet>
+      <libsource lib="Logic_LevelTranslator" part="TXS0102DCU" description="2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, VSSOP-8"/>
+      <property name="Sheetname" value="Miscellaneous"/>
+      <property name="Sheetfile" value="Misc - Shield.kicad_sch"/>
+      <sheetpath names="/Miscellaneous/" tstamps="/00000000-0000-0000-0000-0000604396a6/"/>
+      <tstamps>b459358f-3af2-401b-920b-3e608a6a03f5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="0ZCG0050FF2C" part="0ZCG0050FF2C">
+      <footprints>
+        <fp>0ZCG_BEL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">0ZCG0050FF2C</field>
+        <field name="Footprint">0ZCG_BEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADP2301AUJZ-R7" part="ADP2301AUJZ-R7">
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10005240.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADP2301AUJZ-R7</field>
+        <field name="Footprint">SOT95P280X100-6N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10005240.pdf</field>
+        <field name="Description">Analog Devices ADP2301AUJZ-R7, Step Down DC-DC Converter, Adjustable, 0.8 ??17 V, 6-Pin TSOT%0%0</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP2301AUJZ-R7</field>
+        <field name="Mouser Part Number">584-ADP2301AUJZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2301AUJZ-R7?qs=WIvQP4zGangX%252BSN5bF8NUg%3D%3D</field>
+        <field name="Arrow Part Number">ADP2301AUJZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp2301aujz-r7/analog-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BST" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="passive"/>
+        <pin num="4" name="EN" type="passive"/>
+        <pin num="5" name="VIN" type="input"/>
+        <pin num="6" name="SW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="C1005X5R1E104K050BC" part="C1005X5R1E104K050BC">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C1005X5R1E104K050BC</field>
+        <field name="Footprint">SnapEDA Library:CAPC1005X55N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="C1608X5R0J106K080AB" part="C1608X5R0J106K080AB">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C1608X5R0J106K080AB</field>
+        <field name="Footprint">SnapEDA Library:CAPC1608X90N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x13">
+      <description>Generic connector, single row, 01x13, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x13</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Logic_LevelTranslator" part="TXS0102DCU">
+      <description>2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, VSSOP-8</description>
+      <docs>http://www.ti.com/lit/gpn/txs0102</docs>
+      <footprints>
+        <fp>VSSOP*2.3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXS0102DCU</field>
+        <field name="Footprint">Package_SO:VSSOP-8_2.3x2mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/txs0102</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B2" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCCA" type="power_in"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A1" type="bidirectional"/>
+        <pin num="6" name="OE" type="input"/>
+        <pin num="7" name="VCCB" type="power_in"/>
+        <pin num="8" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="0ZCG0050FF2C">
+      <uri>P:/SnapEDA Kicad Plugin/KiCad Library/SnapEDA Library/0ZCG0050FF2C.lib</uri>
+    </library>
+    <library logical="ADP2301AUJZ-R7">
+      <uri>P:/SnapEDA Kicad Plugin/KiCad Library/SnapEDA Library/ADP2301AUJZ-R7.lib</uri>
+    </library>
+    <library logical="C1005X5R1E104K050BC">
+      <uri>P:/SnapEDA Kicad Plugin/KiCad Library/SnapEDA Library/C1005X5R1E104K050BC.lib</uri>
+    </library>
+    <library logical="C1608X5R0J106K080AB">
+      <uri>P:/SnapEDA Kicad Plugin/KiCad Library/SnapEDA Library/C1608X5R0J106K080AB.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Logic_LevelTranslator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C502" pin="2" pintype="passive"/>
+      <node ref="J504" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U502" pin="3" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U502" pin="6" pinfunction="OE" pintype="input"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C210" pin="2" pintype="passive"/>
+      <node ref="C503" pin="2" pintype="passive"/>
+      <node ref="J504" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J506" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L203" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R210" pin="1" pintype="passive"/>
+      <node ref="U502" pin="7" pinfunction="VCCB" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C204" pin="1" pintype="passive"/>
+      <node ref="C207" pin="1" pintype="passive"/>
+      <node ref="C210" pin="1" pintype="passive"/>
+      <node ref="C211" pin="1" pintype="passive"/>
+      <node ref="C502" pin="1" pintype="passive"/>
+      <node ref="C503" pin="1" pintype="passive"/>
+      <node ref="D202" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D206" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC201" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC202" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J201" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J501" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J504" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J506" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R202" pin="2" pintype="passive"/>
+      <node ref="R206" pin="2" pintype="passive"/>
+      <node ref="R211" pin="2" pintype="passive"/>
+      <node ref="R213" pin="2" pintype="passive"/>
+      <node ref="R501" pin="2" pintype="passive"/>
+      <node ref="U502" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(C202-Pad1)">
+      <node ref="C202" pin="1" pintype="passive"/>
+      <node ref="IC201" pin="1" pinfunction="BST" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C202-Pad2)">
+      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="D202" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC201" pin="6" pinfunction="SW" pintype="passive"/>
+      <node ref="L201" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C207-Pad2)">
+      <node ref="C207" pin="2" pintype="passive"/>
+      <node ref="F201" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="IC201" pin="5" pinfunction="VIN" pintype="input"/>
+      <node ref="R205" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C209-Pad1)">
+      <node ref="C209" pin="1" pintype="passive"/>
+      <node ref="IC202" pin="1" pinfunction="BST" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C209-Pad2)">
+      <node ref="C209" pin="2" pintype="passive"/>
+      <node ref="D206" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC202" pin="6" pinfunction="SW" pintype="passive"/>
+      <node ref="L203" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C211-Pad2)">
+      <node ref="C211" pin="2" pintype="passive"/>
+      <node ref="F202" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="IC202" pin="5" pinfunction="VIN" pintype="input"/>
+      <node ref="R212" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D501-Pad1)">
+      <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R501" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D501-Pad2)">
+      <node ref="D501" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J504" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(IC201-Pad3)">
+      <node ref="IC201" pin="3" pinfunction="FB" pintype="passive"/>
+      <node ref="R201" pin="2" pintype="passive"/>
+      <node ref="R202" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(IC201-Pad4)">
+      <node ref="IC201" pin="4" pinfunction="EN" pintype="passive"/>
+      <node ref="R205" pin="2" pintype="passive"/>
+      <node ref="R206" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(IC202-Pad3)">
+      <node ref="IC202" pin="3" pinfunction="FB" pintype="passive"/>
+      <node ref="R210" pin="2" pintype="passive"/>
+      <node ref="R211" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC202-Pad4)">
+      <node ref="IC202" pin="4" pinfunction="EN" pintype="passive"/>
+      <node ref="R212" pin="2" pintype="passive"/>
+      <node ref="R213" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="SHIELD_CAN2H">
+      <node ref="J502" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J504" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="17" name="SHIELD_CAN2L">
+      <node ref="J502" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J504" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="18" name="SHIELD_UART4_RX">
+      <node ref="J504" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U502" pin="4" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="SHIELD_UART4_TX">
+      <node ref="J504" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U502" pin="5" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Servo_RXD">
+      <node ref="J501" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U502" pin="1" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Servo_TXD">
+      <node ref="J501" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U502" pin="8" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="VS">
+      <node ref="F201" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F202" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J201" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J202" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="23" name="Vdrive">
+      <node ref="C204" pin="2" pintype="passive"/>
+      <node ref="J501" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="L201" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R201" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(J504-Pad8)">
+      <node ref="J504" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J504-Pad9)">
+      <node ref="J504" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J506-Pad2)">
+      <node ref="J506" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(J506-Pad4)">
+      <node ref="J506" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J506-Pad5)">
+      <node ref="J506" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J506-Pad6)">
+      <node ref="J506" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J506-Pad7)">
+      <node ref="J506" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J506-Pad8)">
+      <node ref="J506" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J506-Pad9)">
+      <node ref="J506" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J506-Pad10)">
+      <node ref="J506" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J506-Pad11)">
+      <node ref="J506" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(J506-Pad12)">
+      <node ref="J506" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J506-Pad13)">
+      <node ref="J506" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
