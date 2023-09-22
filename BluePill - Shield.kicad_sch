@@ -45,19 +45,7 @@
     (path "/00000000-0000-0000-0000-00006076aa9d/19d58cc3-c914-4154-8ad6-a516fbabfe38"
       (reference "#PWR?") (unit 1) (value "Vdrive") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000604396a6/1e416c6a-4133-411e-b6ab-a7a10b6d7bf0"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/20a8dab3-8a0e-437f-a6a8-5cf2a66fa614"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000604396a6/22c33c6b-bd9b-464a-925b-09fa282e0994"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/32c85968-5419-4a9e-a61e-b45284503c67"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/3ba16687-df89-4163-a08c-26bcedee96a9"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/3f80d124-e3fb-4b33-8128-cba51732fe3b"
@@ -98,9 +86,6 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/ad1a354f-6d9b-4c54-a04d-2595cf9aec76"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/b4d63b78-ddfa-4aeb-b599-f43157bf16d7"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/c804ce9f-b83f-454f-a8b5-ab1d904641fd"
       (reference "#PWR?") (unit 1) (value "VS") (footprint "")
@@ -155,12 +140,6 @@
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/4dc84031-3a65-4761-8be3-666b04ca1cc4"
       (reference "C211") (unit 1) (value "10u ceramic X5R") (footprint "SnapEDA Library:CAPC1608X90N")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/6cc73695-d1c9-4d93-b4b6-778f4267a30f"
-      (reference "C502") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/3c53f8b5-05f9-45a0-a735-438497db04bc"
-      (reference "C503") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/270ed9af-a19c-4e24-98ce-3c252f09d3ac"
       (reference "D202") (unit 1) (value "30V 2A") (footprint "SnapEDA Library:B230A-13-F")
@@ -233,9 +212,6 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/3500f1ad-48df-46b8-ac90-9b6d3284afc6"
       (reference "R501") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/00000000-0000-0000-0000-0000604396a6/b459358f-3af2-401b-920b-3e608a6a03f5"
-      (reference "U502") (unit 1) (value "TXS0102DCU") (footprint "Package_SO:VSSOP-8_2.3x2mm_P0.5mm")
     )
   )
 )

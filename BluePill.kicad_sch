@@ -65,6 +65,9 @@
   )
 
   (symbol_instances
+    (path "/00000000-0000-0000-0000-000060437230/bd685957-dc8f-47a0-b300-5e6feb6c9e4f"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000604396a6/0d912a51-6439-41e7-aa98-b0ba94014955"
       (reference "#PWR0116") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -85,12 +88,6 @@
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/d3d08e83-e7a1-4d11-ad08-0fa4c1d9dd73"
       (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604ab9ae"
-      (reference "#PWR0301") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604ab1fe"
-      (reference "#PWR0302") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604eea1d"
       (reference "#PWR0303") (unit 1) (value "GND") (footprint "")
@@ -202,12 +199,6 @@
     )
     (path "/00000000-0000-0000-0000-00006043964d/50e413b1-78c6-43c1-a39e-5691f2594be4"
       (reference "#PWR0408") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006043964d/5bd40e3c-a101-4ff2-a12b-5a72ec9a9dd8"
-      (reference "#PWR0409") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006043964d/dc752e88-e7ca-4462-876d-d05fc8429da3"
-      (reference "#PWR0410") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006043964d/d1c7a610-0d3e-4002-8fce-ef1109d95e52"
       (reference "#PWR0411") (unit 1) (value "GND") (footprint "")
@@ -347,12 +338,6 @@
     (path "/00000000-0000-0000-0000-0000604396a6/07bca5e6-8349-4d90-a800-c005cc6a77e0"
       (reference "J505") (unit 1) (value "Conn_01x13") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006043964d/b9c78184-d074-463a-8854-e64e527b4045"
-      (reference "JP401") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00006043964d/26d4165d-2553-4e58-bac4-d44ebd7421c5"
-      (reference "JP402") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
-    )
     (path "/00000000-0000-0000-0000-00006076aa9d/8d18e405-d348-4724-a88e-11220faab1df"
       (reference "R208") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -415,9 +400,6 @@
     )
     (path "/00000000-0000-0000-0000-0000604396a6/00000000-0000-0000-0000-0000605373db"
       (reference "R502") (unit 1) (value "120R") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/00000000-0000-0000-0000-000060437230/00000000-0000-0000-0000-0000604a9728"
-      (reference "SW301") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
     )
     (path "/00000000-0000-0000-0000-00006076aa9d/372824c5-d7b9-411b-b34c-fe7e056f1f24"
       (reference "U201") (unit 1) (value "LP5907QMFX-3.3Q1") (footprint "SnapEDA Library:SOT95P280X145-5N")
